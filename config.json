@@ -1,0 +1,7 @@
+{
+    "url_base" : "https://xxxxxxxxx.mktorest.com",
+    "client_id" : "----replace with client id----",
+    "client_secret" : "----replace with client secret----",
+    "total_request_limit" : 10000,
+    "total_request_count" : 0
+}
